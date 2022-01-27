@@ -1,2 +1,2 @@
-# picroom
+# Pictoroom
 Pictochat web based alternative
